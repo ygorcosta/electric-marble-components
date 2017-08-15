@@ -37,6 +37,6 @@
     "gulp-metal": "^1.9.13"
   },
   "dependencies": {
-    "electric-base-components": "^2.0.0"
+    "electric-base-components": "github:ygorcosta/electric-base-components#reading-progress",
   }
 }
